@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Android-Iconic-Octicons/Android-Iconic-Octicons.iml" filepath="$PROJECT_DIR$/../Android-Iconic-Octicons/Android-Iconic-Octicons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Android-Iconics/Android-Iconics.iml" filepath="$PROJECT_DIR$/../Android-Iconics/Android-Iconics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Android-ObservableScrollView/Android-ObservableScrollView.iml" filepath="$PROJECT_DIR$/../Android-ObservableScrollView/Android-ObservableScrollView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hoteles Cubanacan.iml" filepath="$PROJECT_DIR$/.idea/Hoteles Cubanacan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MaterialDateTimePicker/MaterialDateTimePicker.iml" filepath="$PROJECT_DIR$/../MaterialDateTimePicker/MaterialDateTimePicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MaterialDrawer/NuevoDrawer.iml" filepath="$PROJECT_DIR$/../MaterialDrawer/NuevoDrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PagerSlidingTabStrip/PagerSlidingTabStrip.iml" filepath="$PROJECT_DIR$/../PagerSlidingTabStrip/PagerSlidingTabStrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../android-floating-action-button/android-floating-action-button.iml" filepath="$PROJECT_DIR$/../android-floating-action-button/android-floating-action-button.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../android-support-v7-appcompat/android-support-v7-appcompat.iml" filepath="$PROJECT_DIR$/../android-support-v7-appcompat/android-support-v7-appcompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cardview/cardview.iml" filepath="$PROJECT_DIR$/../cardview/cardview.iml" />
+    </modules>
+  </component>
+</project>
